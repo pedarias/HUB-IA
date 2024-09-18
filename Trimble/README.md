@@ -1,16 +1,12 @@
 # Projeto Trimble Transportation - HUB-IA SENAI
 
 ## Sobre a Empresa
-Trimble Transportation é uma divisão da Trimble Inc., especializada em soluções tecnológicas para transporte e logística, visando aumentar a eficiência e segurança na gestão de frotas através de inovações tecnológicas. Em parceria com o HUB de IA, foi proposta a criação de Provas de Conceito (POCs) para analisar padrões de tráfego na plataforma, prever a fadiga dos motoristas, segmentar objetos soltos em cabines de veículos e detectar a presença de chuva nas imagens.
+Trimble Transportation é uma divisão da Trimble Inc., especializada em soluções tecnológicas para transporte e logística, visando aumentar a eficiência e segurança na gestão de frotas através de inovações tecnológicas. Em parceria com o HUB de IA, foi proposta a criação de Provas de Conceito (POCs) divididas em 4 Sprints.
 
 ### POC1: Análise e Predição de Dados na Gestão de Frotas
 
 #### Tema
 Análise exploratória de dados, Predição e Segmentação com Machine Learning.
-
-#### Equipe
-- Pedro H. Arias Oliveira
-- Renan Shibukawa
 
 #### Tecnologias
 - **Data Visualization**: Matplotlib, Plotly
@@ -20,16 +16,12 @@ Análise exploratória de dados, Predição e Segmentação com Machine Learning
 #### Sobre o Projeto
 Na **Sprint 1**, realizamos uma análise exploratória dos dados, com o objetivo de investigar padrões de uso e interação dos usuários na plataforma Trimble, utilizando dados fornecidos por eles. Desenvolvemos um dashboard interativo em Streamlit que permite filtrar e analisar os dados de maneira eficiente.
 
-Na **Sprint 2**, nosso objetivo foi identificar padrões operacionais que contribuem para a fadiga dos motoristas. Utilizamos técnicas de Big Data com PySpark, algoritmos de segmentação como K-means e DBSCAN (Aprendizado não Supervisionado), e modelos preditivos como Random Forest (Aprendizado Supervisionado). Os resultados incluíram a identificação de clusters de unidades operacionais com maior incidência de fadiga e a correlação de variáveis operacionais relevantes.
+Na **Sprint 2**, nosso objetivo foi identificar padrões operacionais que contribuem para a fadiga dos motoristas. Utilizamos técnicas de Big Data com PySpark, algoritmos de segmentação como K-means e DBSCAN (Aprendizado Não Supervisionado), e modelos preditivos como Random Forest (Aprendizado Supervisionado). Os resultados incluíram a identificação de clusters de unidades operacionais com maior incidência de fadiga e a correlação de variáveis operacionais mais contribuintes para fadiga.
 
 ### POC2: Identificação e Segmentação de Objetos Soltos e Classificação de Chuva
 
 #### Tema
 Visão Computacional
-
-#### Equipe
-- Pedro H. Arias Oliveira
-- Fernando Urizzi
 
 #### Tecnologias
 - **Data Visualization**: Matplotlib, Plotly
