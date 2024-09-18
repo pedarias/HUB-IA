@@ -26,7 +26,7 @@ Os projetos neste repositório utilizam uma variedade de tecnologias, incluindo,
 
 - **Linguagens de Programação**: Python
 - **Frameworks de IA**: TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Bibliotecas de Análise de Dados**: Pandas, NumPy
+- **Bibliotecas de Análise de Dados**: Pandas, NumPy, PySpark
 - **Visualização de Dados**: Matplotlib, Plotly
 - **Web Frameworks**: Django, FastAPI, Streamlit
 - **Banco de Dados**: PostgreSQL, DuckDB
