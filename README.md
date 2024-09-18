@@ -14,7 +14,7 @@ Cada pasta dentro deste repositório representa uma empresa parceira para a qual
 - `Empresa_B/` 
 - `Empresa_C/` 
 
-- Devido a restrições de confidencialidade, o diretório contém apenas documentação geral dos projetos e descrições de alto nível sem revelar dados sensíveis ou códigos específicos. É apresentado resumos dos objetivos do projeto e as tecnologias utilizadas, sem detalhar os resultados ou métodos aplicados.
+- Devido a restrições de confidencialidade, o diretório contém apenas documentação geral dos projetos sem revelar dados sensíveis ou códigos específicos. É apresentado apenas resumos dos objetivos do projeto, a metodologia e as tecnologias utilizadas, sem detalhar os resultados.
 
 ## Conformidade e Confidencialidade
 
