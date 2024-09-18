@@ -16,10 +16,6 @@ Cada diretório dentro deste repositório corresponde a uma empresa parceira par
 
 > **Nota**: Os conteúdos dos diretórios são limitados a descrições gerais, sendo os dados e o código-fonte confidenciais. Informações detalhadas estão disponíveis apenas conforme os termos dos acordos de confidencialidade.
 
-## Conformidade com Acordos de Confidencialidade
-
-Este repositório cumpre rigorosamente os acordos de confidencialidade estabelecidos com as empresas parceiras. Nenhum dado sensível, código-fonte ou informação proprietária é divulgado publicamente. Todo o conteúdo aqui presente foi revisado para garantir que informações restritas sejam adequadamente protegidas, conforme as políticas de sigilo acordadas.
-
 ## Tecnologias Utilizadas
 
 Os projetos desenvolvidos neste repositório abrangem uma ampla gama de tecnologias e ferramentas, refletindo a diversidade das demandas dos projetos e das empresas parceiras. Entre as principais tecnologias utilizadas, destacam-se:
