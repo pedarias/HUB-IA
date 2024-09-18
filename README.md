@@ -2,7 +2,7 @@
 
 ## Sobre o Repositório
 
-Este repositório contém uma coleção de projetos desenvolvidos no HUB-IA do SENAI, destinados a várias empresas parceiras. Os projetos aqui apresentados demonstram a aplicação de técnicas avançadas em inteligência artificial, análise de dados, e desenvolvimento de software para resolver problemas específicos de negócios e operações industriais.
+Este repositório contém uma coleção de projetos desenvolvidos por mim durante a minha residência no HUB-IA do SENAI, destinados a várias empresas parceiras. Os projetos aqui apresentados demonstram a aplicação de técnicas avançadas em inteligência artificial, análise de dados, e desenvolvimento de software para resolver problemas específicos de negócios e operações industriais.
 
 ## Estrutura do Repositório
 
