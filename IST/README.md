@@ -2,49 +2,45 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido no Instituto SENAI de Tecnologia em Londrina por Pedro Henrique Arias Oliveira e Paulo Andrade. O objetivo central é otimizar os parâmetros de circuitos equivalentes usando dados experimentais de Espectroscopia de Impedância Eletroquímica (EIS).
+Este projeto foi desenvolvido para o Instituto SENAI de Tecnologia e Inovação com o objetivo de ajustar os parâmetros de modelos de circuitos equivalentes para que estes se comportem de maneira semelhante aos dados experimentais de Espectroscopia de Impedância Eletroquímica (EIS). Utilizando uma abordagem de otimização, o projeto visa melhorar a acurácia dos modelos simulados ao ajustar seus parâmetros com base em dados reais.
 
 ## Objetivos
 
-- Fornecer uma metodologia robusta para ajustar os parâmetros de circuitos equivalentes baseados em dados experimentais de EIS.
-- Utilizar algoritmos de otimização para encontrar os melhores parâmetros que se ajustem aos dados experimentais.
-
+- Propor uma metodologia eficiente para ajustar os parâmetros de circuitos equivalentes a partir de dados experimentais de EIS.
+- Utilizar algoritmos de otimização para encontrar os parâmetros que melhor se ajustem aos dados experimentais.
+  
 ## Escopo
 
-O projeto abrange a modelagem e análise de dados de impedância eletroquímica utilizando técnicas avançadas de otimização e ajuste de curvas.
+O projeto envolve a modelagem de sistemas eletroquímicos a partir de dados de EIS, utilizando técnicas avançadas de ajuste de parâmetros e otimização para aprimorar os modelos de circuitos equivalentes.
 
 ## Tecnologias Utilizadas
 
-- **Data Analysis**: Python, Pandas
-- **Optimization Algorithms**: Algoritmo de Evolução Diferencial
-- **Visualization**: Matplotlib para gráficos de Nyquist
+- **Análise de Dados**: Python, Pandas, SciPy
+- **Algoritmos de Otimização**: Evolução Diferencial
+- **Visualização**: Pyplot para geração de gráficos de Nyquist
 
 ## Metodologia
 
 ### Análise de Dados
 
-Os dados de EIS foram pré-processados e analisados para entender as características dos sistemas eletroquímicos sob estudo.
+Os dados de EIS fornecidos pelo Instituto SENAI foram cuidadosamente pré-processados e analisados para extrair as características relevantes dos sistemas eletroquímicos. Esses dados permitiram a formulação dos modelos de circuito equivalente, utilizados para simular o comportamento dos sistemas.
 
 ### Otimização
 
-Utilizamos o algoritmo de Evolução Diferencial para ajustar os parâmetros dos modelos de circuitos equivalentes. A função de custo foi definida para minimizar o erro entre os dados simulados e experimentais.
+O algoritmo de Evolução Diferencial foi aplicado para otimizar os parâmetros dos modelos de circuito equivalente. A função de custo foi definida para minimizar o erro entre os valores simulados e os dados experimentais, assegurando que os modelos ajustados refletissem com precisão o comportamento eletroquímico dos sistemas.
 
 ### Visualização
 
-Gráficos de Nyquist foram gerados para visualizar a adequação dos modelos ajustados em comparação aos dados experimentais.
+Para verificar a precisão dos ajustes, gráficos de Nyquist foram gerados, permitindo uma comparação visual entre os dados experimentais e os dados simulados dos modelos ajustados. Estes gráficos são fundamentais para avaliar a adequação dos modelos otimizados.
 
 ## Resultados
 
-Os resultados demonstraram a eficácia do algoritmo de Evolução Diferencial na otimização dos parâmetros de circuito, oferecendo uma visão clara da resposta do sistema eletroquímico.
+Os resultados obtidos demonstraram a eficácia do algoritmo de Evolução Diferencial na otimização dos parâmetros dos circuitos equivalentes, com uma significativa redução no erro entre os dados simulados e experimentais. Através da visualização gráfica dos dados, foi possível validar a acurácia dos modelos.
 
 ## Próximos Passos
 
-Planejamos explorar o uso de redes neurais para a otimização de parâmetros em futuros trabalhos, visando melhorar ainda mais a precisão dos ajustes.
-
-## Referências
-
-- Documentação e estudos relevantes incluídos no diretório `docs/` e citados conforme apropriado no código.
+O próximo passo é explorar a aplicação de redes neurais para a otimização dos parâmetros em futuras iterações, com o objetivo de melhorar ainda mais a precisão dos modelos ajustados.
 
 ## Contato
 
-Para mais informações, entre em contato com Pedro Henrique Arias Oliveira através de [email].
+Para mais informações, entre em contato com Pedro Henrique Arias Oliveira.
