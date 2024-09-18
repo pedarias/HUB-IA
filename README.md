@@ -2,33 +2,38 @@
 
 ## Sobre o Repositório
 
-Este repositório contém uma coleção de projetos desenvolvidos por mim durante a minha residência no HUB-IA do SENAI, destinados a várias empresas parceiras. Os projetos aqui apresentados demonstram a aplicação de técnicas avançadas em inteligência artificial, análise de dados, e desenvolvimento de software para resolver problemas específicos de negócios e operações industriais.
+Este repositório reúne uma coleção de projetos desenvolvidos durante minha residência no HUB-IA do SENAI. Esses projetos foram criados em colaboração com diversas empresas parceiras, abordando problemas complexos de negócios e operações industriais. Através da aplicação de técnicas avançadas de Inteligência Artificial (IA), análise de dados e desenvolvimento de software, os projetos fornecem soluções inovadoras para desafios específicos dessas empresas.
 
 ## Estrutura do Repositório
 
-Cada pasta dentro deste repositório representa uma empresa parceira para a qual os projetos foram desenvolvidos. Devido a acordos de confidencialidade com algumas dessas empresas, certos detalhes, códigos e dados não podem ser publicamente divulgados.
+Cada diretório dentro deste repositório corresponde a uma empresa parceira para a qual um ou mais projetos foram desenvolvidos. Em conformidade com os acordos de confidencialidade firmados, o repositório contém apenas informações genéricas e documentação que descreve os objetivos, metodologias e tecnologias utilizadas nos projetos, sem expor dados sensíveis, resultados específicos ou código-fonte restrito.
 
-### Diretórios
+### Diretórios de Empresas Parceiras
 
-- `Empresa_A/` 
-- `Empresa_B/` 
-- `Empresa_C/` 
+- `Empresa_A/`: Documentação e resumo de projetos desenvolvidos para a Empresa A.
+- `Empresa_B/`: Documentação e resumo de projetos desenvolvidos para a Empresa B.
+- `Empresa_C/`: Documentação e resumo de projetos desenvolvidos para a Empresa C.
 
-- Devido a restrições de confidencialidade, o diretório contém apenas documentação geral dos projetos sem revelar dados sensíveis ou códigos específicos. É apresentado apenas resumos dos objetivos do projeto, a metodologia e as tecnologias utilizadas, sem detalhar os resultados.
+> **Nota**: Os conteúdos dos diretórios são limitados a descrições gerais, sendo os dados e o código-fonte confidenciais. Informações detalhadas estão disponíveis apenas conforme os termos dos acordos de confidencialidade.
 
-## Conformidade e Confidencialidade
+## Conformidade com Acordos de Confidencialidade
 
-Este repositório está em conformidade com todos os acordos de confidencialidade estabelecidos entre o SENAI e as empresas parceiras. Os detalhes específicos, incluindo código-fonte e dados são restringidos conforme os termos acordados.
+Este repositório cumpre rigorosamente os acordos de confidencialidade estabelecidos com as empresas parceiras. Nenhum dado sensível, código-fonte ou informação proprietária é divulgado publicamente. Todo o conteúdo aqui presente foi revisado para garantir que informações restritas sejam adequadamente protegidas, conforme as políticas de sigilo acordadas.
 
 ## Tecnologias Utilizadas
 
-Os projetos neste repositório utilizam uma variedade de tecnologias, incluindo, mas não se limitando a:
+Os projetos desenvolvidos neste repositório abrangem uma ampla gama de tecnologias e ferramentas, refletindo a diversidade das demandas dos projetos e das empresas parceiras. Entre as principais tecnologias utilizadas, destacam-se:
 
 - **Linguagens de Programação**: Python
 - **Frameworks de IA**: TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Bibliotecas de Análise de Dados**: Pandas, NumPy, PySpark
 - **Visualização de Dados**: Matplotlib, Plotly
 - **Web Frameworks**: Django, FastAPI, Streamlit
-- **Banco de Dados**: PostgreSQL, DuckDB
-- **DevOps**: Docker
+- **Bancos de Dados**: PostgreSQL, DuckDB
+- **DevOps e Containerização**: Docker
 
+## Aviso Legal
+
+Este repositório destina-se exclusivamente para documentação e apresentação de metodologias utilizadas nos projetos. Qualquer conteúdo aqui presente foi revisado para atender aos requisitos de confidencialidade. Não estão inclusos dados sensíveis, códigos proprietários ou qualquer informação que possa comprometer a privacidade das empresas parceiras.
+
+Para mais informações sobre os projetos ou para esclarecimentos adicionais, entre em contato diretamente.
