@@ -2,26 +2,25 @@
 
 ## Sobre o Projeto
 
-Este repositório documenta o desenvolvimento de uma solução para analisar e verificar discrepâncias em diferentes base de dados, comparando informações entre três sistemas distintos. O projeto integra um pipeline de ETL robusto para manipular diferentes formatos de dados (CSV, XML, XLSX), transformá-los e armazená-los em um banco de dados PostgreSQL. Através de uma API construída com FastAPI, o frontend desenvolvido em Streamlit interage com o backend, permitindo uploads de dados e visualização de análises diretamente pela interface do usuário (Streamlit).
+Este repositório documenta o desenvolvimento de uma solução que visa identificar e analisar possíveis inconsistências entre diferentes bases de dados, comparando informações provenientes de múltiplos sistemas. O projeto incorpora um pipeline de ETL para processar diversos formatos de dados (como CSV, XML, e XLSX), transformando-os e armazenando-os em um banco de dados PostgreSQL. A solução inclui uma API desenvolvida com FastAPI para facilitar as interações entre frontend e backend, enquanto o frontend, desenvolvido com Streamlit, permite o upload de dados e a visualização de análises diretamente pela interface do usuário.
 
 ## Arquitetura do Sistema
 
-- **ETL Pipeline**: Extração de dados de diversos formatos, transformação dos mesmos e carrega no banco de dados PostgreSQL.
-- **FastAPI**: API que facilita as operações CRUD no banco de dados e serve como ponte entre o frontend e o backend.
-- **Streamlit**: Interface gráfica que permite aos usuários interagir com os dados, fazer uploads e visualizar resultados de divergências.
-- **Docker**: Utilizado para containerizar e orquestrar os componentes do sistema, garantindo facilidade de implantação e ambiente consistente.
+- **ETL Pipeline**: Automação da extração, transformação e carregamento de dados de diferentes formatos, que são então inseridos no banco de dados PostgreSQL.
+- **FastAPI**: API utilizada para operações CRUD no banco de dados e como intermediária entre o frontend e o backend.
+- **Streamlit**: Interface gráfica que possibilita interações com os dados, como o envio de arquivos e a visualização de relatórios de inconsistências.
+- **Docker**: Utilizado para garantir consistência no ambiente de desenvolvimento e produção, através da containerização e orquestração dos componentes do sistema.
 
 ## Funcionalidades
 
-- **Divergência de Preço Unitário**: Identifica divergências entre os preços unitários nas NF-es comparando com os registrados em outros sistema.
-- **Divergência de Valor Total**: Compara valores totais de NF-es com os valores contratuais.
-- **Verificação de Data de Emissão**: Confirma que todas as NF-es emitidas estão dentro de um período de vigência.
-- **Análise por Município**: Analisa divergências distribuídas geograficamente.
+- **Identificação de Divergências**: Detecção de discrepâncias em registros, permitindo verificar a consistência de dados financeiros e operacionais.
+- **Verificação de Registros Temporais**: Validação de registros de acordo com critérios de período e vigência, garantindo a conformidade dos dados analisados.
+- **Análise Geográfica**: Apresentação de resultados de análises baseadas em critérios geográficos, oferecendo uma visão regional das inconsistências.
 
 ## Tecnologias Utilizadas
 
-- **Python**: Linguagem principal para o backend e scripts de ETL.
-- **FastAPI**: Framework para construção de APIs de alto desempenho.
-- **PostgreSQL**: Banco de dados relacional para armazenamento de dados.
-- **Streamlit**: Framework para desenvolvimento do frontend.
-- **Docker**: Plataforma para containerização do ambiente de desenvolvimento e produção.
+- **Python**: Linguagem utilizada para o backend e processamento de dados.
+- **FastAPI**: Framework para desenvolvimento de APIs de alto desempenho.
+- **PostgreSQL**: Sistema de banco de dados relacional para armazenamento e consulta de dados.
+- **Streamlit**: Framework de interface gráfica para interações com o sistema e visualização dos dados processados.
+- **Docker**: Tecnologia para garantir um ambiente padronizado e facilitar a implantação.
