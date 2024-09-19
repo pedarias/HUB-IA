@@ -6,7 +6,7 @@
 
 Este repositório documenta o desenvolvimento de uma solução que visa identificar e analisar possíveis inconsistências entre diferentes bases de dados, comparando informações provenientes de múltiplos sistemas. O projeto incorpora um pipeline de ETL para processar diversos formatos de dados (como CSV, XML, e XLSX), transformando-os e armazenando-os em um banco de dados PostgreSQL. A solução inclui uma API desenvolvida com FastAPI para facilitar as interações entre frontend e backend, enquanto o frontend, desenvolvido com Streamlit, permite o upload de dados e a visualização de análises diretamente pela interface do usuário.
 
-<img src="../images/etlpipelineagco.png" alt="ETL Pipeline" width="400"/>
+<img src="../images/etlpipelineagco.png" alt="ETL Pipeline" width="600"/>
 
 ## Arquitetura do Sistema
 
