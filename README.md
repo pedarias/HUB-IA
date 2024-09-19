@@ -1,6 +1,6 @@
 # Repositório HUB-IA SENAI
 
-<img src="images/Residência-IA.jpeg" alt="Residência IA" width="200"/>
+<img src="images/Residência-IA.jpeg" alt="Residência IA" width="400"/>
 
 ## Sobre o Repositório
 
@@ -29,6 +29,18 @@ Os projetos desenvolvidos neste repositório abrangem uma ampla gama de tecnolog
 - **Web Frameworks**: Django, FastAPI, Streamlit
 - **Bancos de Dados**: PostgreSQL, DuckDB
 - **DevOps e Containerização**: Docker
+
+## Contato
+
+##### Pedro Henrique Arias Oliveira: 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/pedroarias92/" target="blank">
+    <img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" height="30" />
+  </a> 
+  <a href="mailto:pedro.oliveira@sistemafiep.org.br" target="blank">
+    <img align="center" src="https://w7.pngwing.com/pngs/995/259/png-transparent-microsoft-outlook-logo-outlook-com-microsoft-outlook-email-microsoft-office-365-outlook-miscellaneous-blue-text.png" height="30" />
+  </a>
+</p>
 
 ## Aviso Legal
 

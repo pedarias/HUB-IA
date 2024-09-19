@@ -45,4 +45,13 @@ O próximo passo é explorar a aplicação de redes neurais para a otimização 
 
 ## Contato
 
-Para mais informações, entre em contato com Pedro Henrique Arias Oliveira.
+##### Pedro Henrique Arias Oliveira: 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/pedroarias92/" target="blank">
+    <img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" height="30" />
+  </a> 
+  <a href="mailto:pedro.oliveira@sistemafiep.org.br" target="blank">
+    <img align="center" src="https://w7.pngwing.com/pngs/995/259/png-transparent-microsoft-outlook-logo-outlook-com-microsoft-outlook-email-microsoft-office-365-outlook-miscellaneous-blue-text.png" height="30" />
+  </a>
+</p>
+
