@@ -1,5 +1,7 @@
 # Projeto AGCO - HUB-IA SENAI
 
+![](images/AGCO-descript-logo.png)
+
 ## Sobre o Projeto
 
 Este repositório documenta o desenvolvimento de uma solução que visa identificar e analisar possíveis inconsistências entre diferentes bases de dados, comparando informações provenientes de múltiplos sistemas. O projeto incorpora um pipeline de ETL para processar diversos formatos de dados (como CSV, XML, e XLSX), transformando-os e armazenando-os em um banco de dados PostgreSQL. A solução inclui uma API desenvolvida com FastAPI para facilitar as interações entre frontend e backend, enquanto o frontend, desenvolvido com Streamlit, permite o upload de dados e a visualização de análises diretamente pela interface do usuário.
@@ -10,6 +12,8 @@ Este repositório documenta o desenvolvimento de uma solução que visa identifi
 - **FastAPI**: API utilizada para operações CRUD no banco de dados e como intermediária entre o frontend e o backend.
 - **Streamlit**: Interface gráfica que possibilita interações com os dados, como o envio de arquivos e a visualização de relatórios de inconsistências.
 - **Docker**: Utilizado para garantir consistência no ambiente de desenvolvimento e produção, através da containerização e orquestração dos componentes do sistema.
+
+![Arquitetura](images/agcoarquitetura.png)
 
 ## Funcionalidades
 

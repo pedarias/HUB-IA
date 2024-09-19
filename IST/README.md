@@ -21,6 +21,8 @@ O projeto envolve a modelagem de sistemas eletroquímicos a partir de dados de E
 
 ## Metodologia
 
+![Pipeline do Projeto](images/ISTarq.png)
+
 ### Análise de Dados
 
 Os dados de EIS fornecidos pelo Instituto SENAI foram cuidadosamente pré-processados e analisados para extrair as características relevantes dos sistemas eletroquímicos. Esses dados permitiram a formulação dos modelos de circuito equivalente, utilizados para simular o comportamento dos sistemas.
