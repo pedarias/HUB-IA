@@ -12,9 +12,9 @@ Cada diretório dentro deste repositório corresponde a uma empresa parceira par
 
 ### Diretórios de Empresas Parceiras
 
-- `Empresa_A/`: Documentação e resumo de projetos desenvolvidos para a Empresa A.
-- `Empresa_B/`: Documentação e resumo de projetos desenvolvidos para a Empresa B.
-- `Empresa_C/`: Documentação e resumo de projetos desenvolvidos para a Empresa C.
+- `Empresa_A/`: Documentação dos projetos desenvolvidos para a Empresa A.
+- `Empresa_B/`: Documentação dos projetos desenvolvidos para a Empresa B.
+- `Empresa_C/`: Documentação dos projetos desenvolvidos para a Empresa C.
 
 > **Nota**: Os conteúdos dos diretórios são limitados a descrições gerais, sendo os dados e o código-fonte confidenciais. Informações detalhadas estão disponíveis apenas conforme os termos dos acordos de confidencialidade.
 
