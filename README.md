@@ -2,7 +2,6 @@
 
 <img src="images/Residência-IA.jpeg" alt="Residência IA" width="200"/>
 
-
 ## Sobre o Repositório
 
 Este repositório reúne uma coleção de projetos desenvolvidos durante minha residência no HUB-IA do SENAI. Esses projetos foram criados em colaboração com diversas empresas parceiras, abordando problemas complexos de negócios e operações industriais. Através da aplicação de técnicas avançadas de Inteligência Artificial (IA), análise de dados e desenvolvimento de software, os projetos fornecem soluções inovadoras para desafios específicos dessas empresas.
