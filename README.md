@@ -1,6 +1,6 @@
 # Repositório HUB-IA SENAI
 
-![](images/Residência IA.jpeg)
+![](images/Residência-IA.jpeg)
 
 ## Sobre o Repositório
 
