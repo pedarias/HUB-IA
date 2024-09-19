@@ -21,7 +21,7 @@ O projeto envolve a modelagem de sistemas eletroquímicos a partir de dados de E
 
 ## Metodologia
 
-![Pipeline do Projeto](IST/images/ISTarq.png)
+![Pipeline do Projeto](../images/ISTarq.png)
 
 ### Análise de Dados
 

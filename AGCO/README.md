@@ -1,6 +1,6 @@
 # Projeto AGCO - HUB-IA SENAI
 
-![](AGCO/images/AGCO-descript-logo.png)
+<img src="../images/AGCO-descript-logo.png" alt="Residência IA" width="400"/>
 
 ## Sobre o Projeto
 
@@ -13,7 +13,8 @@ Este repositório documenta o desenvolvimento de uma solução que visa identifi
 - **Streamlit**: Interface gráfica que possibilita interações com os dados, como o envio de arquivos e a visualização de relatórios de inconsistências.
 - **Docker**: Utilizado para garantir consistência no ambiente de desenvolvimento e produção, através da containerização e orquestração dos componentes do sistema.
 
-![](AGCO/images/agcoarquitetura.png)
+<img src="../images/agcoarquitetura.png" alt="Residência IA" width="400"/>
+
 
 ## Funcionalidades
 

@@ -1,6 +1,7 @@
 # Repositório HUB-IA SENAI
 
-![](images/Residência IA.jpeg)
+<img src="images/Residência-IA.jpeg" alt="Residência IA" width="200"/>
+
 
 ## Sobre o Repositório
 
