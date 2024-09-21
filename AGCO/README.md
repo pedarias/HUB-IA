@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Este repositório documenta o desenvolvimento de uma solução que visa identificar e analisar possíveis inconsistências entre diferentes bases de dados, comparando informações provenientes de múltiplos sistemas. O projeto incorpora um pipeline de ETL para processar diversos formatos de dados (como CSV, XML, e XLSX), transformando-os e armazenando-os em um banco de dados PostgreSQL. A solução inclui uma API desenvolvida com FastAPI para facilitar as interações entre frontend e backend, enquanto o frontend, desenvolvido com Streamlit, permite o upload de dados e a visualização de análises diretamente pela interface do usuário.
+Este repositório documenta o desenvolvimento de uma solução que visa identificar e analisar divergências entre diferentes bases de dados, comparando informações provenientes de múltiplos sistemas. O projeto incorpora um pipeline de ETL para processar diversos formatos de arquivos, transformando-os e armazenando-os em um banco de dados PostgreSQL. A solução inclui uma API desenvolvida com FastAPI para facilitar as interações entre frontend e backend, enquanto o frontend, desenvolvido com Streamlit, permite o upload de dados e a visualização de análises diretamente pela interface do usuário.
 
 <img src="../images/etlpipelineagco.png" alt="ETL Pipeline" width="600"/>
 
@@ -20,7 +20,7 @@ Este repositório documenta o desenvolvimento de uma solução que visa identifi
 
 ## Funcionalidades
 
-- **Identificação de Divergências**: Detecção de discrepâncias em registros, permitindo verificar a consistência de dados financeiros e operacionais.
+- **Identificação de Divergências**
 - **Verificação de Registros Temporais**: Validação de registros de acordo com critérios de período e vigência, garantindo a conformidade dos dados analisados.
 - **Análise Geográfica**: Apresentação de resultados de análises baseadas em critérios geográficos, oferecendo uma visão regional das inconsistências.
 
